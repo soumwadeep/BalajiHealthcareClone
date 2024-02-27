@@ -1,3 +1,13 @@
-body{
+body {
   text-align: center;
+}
+img {
+  width: 100%;
+  height: auto;
+}
+.logo {
+  max-width: 130px;
+}
+.home-container {
+  min-height: 80vh;
 }

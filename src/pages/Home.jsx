@@ -1,9 +1,11 @@
+import HeroCarousal from "../components/HeroCarousal";
+
 const Home = () => {
   return (
-    <div>
-      <h1>Hi</h1>
-    </div>
-  )
-}
+    <main className="home-container">
+      <HeroCarousal />
+    </main>
+  );
+};
 
-export default Home
+export default Home;
