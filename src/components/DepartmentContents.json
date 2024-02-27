@@ -1,0 +1,100 @@
+[
+  {
+    "id": "neurology",
+    "title": "Neurology",
+    "image": "/img/departments/neurologycover.jpg",
+    "content": "The study and treatment of the nervous system fall under the field of medicine known as neurology. Neurodiagnostic is a subset of this field that focuses on the central and peripheral nervous systems. It involves the recording of bioelectrical activity to measure the electrical function of the brain, spinal cord, and nerves in the limbs or muscles.",
+    "test-line": "The following tests we conduct provide precise results that reveal any abnormalities that require further treatment.",
+    "tests": [
+      {
+        "id": "1",
+        "name": "Video EEG"
+      },
+      {
+        "id": "2",
+        "name": "EEG"
+      },
+      {
+        "id": "3",
+        "name": "EMG"
+      },
+      {
+        "id": "4",
+        "name": "NCV"
+      },
+      {
+        "id": "5",
+        "name": "Facial NCV"
+      },
+      {
+        "id": "6",
+        "name": "Visual Evoked Potential (VEP)"
+      },
+      {
+        "id": "7",
+        "name": "Brainstem Auditory Evoked Response (BAER)"
+      },
+      {
+        "id": "8",
+        "name": "Somato Sensory Evoked Potential (SSEP)"
+      },
+      {
+        "id": "9",
+        "name": "Sympathetic Skin Response (SSR)"
+      },
+      {
+        "id": "10",
+        "name": "Blink Reflex"
+      },
+      {
+        "id": "11",
+        "name": "Repetitive Nerve Stimulation (RNST)"
+      }
+    ],
+    "doctors": [
+      {
+        "name": "Dr. Swayam Prakash",
+        "image": "/img/doctors/Dr.-Swayam-Prakash.jpg",
+        "qualification": "MD,DM, SCE (RCP – UK), FEBN, FRCP",
+        "know-more": "/d/dr-swayam-prakash"
+      }
+    ]
+  },
+  {
+    "id": "gastroenterology",
+    "title": "Gastroenterology",
+    "image": "/img/departments/Gastroenterology-cover.jpg",
+    "content": "Understanding the normal functions and diseases of the digestive system is the focus of gastroenterology. Balaji Healthcare conducts various diagnostic exams, such as colonoscopy, upper endoscopy, and capsule endoscopy. Our goal is to provide accessible healthcare to everyone. With precise diagnosis results, you can receive the highest quality medical care from doctors.",
+    "test-line": "The test includes",
+    "tests": [
+      {
+        "id": "1",
+        "name": "Upper gastrointestinal series (UGI)"
+      },
+      {
+        "id": "2",
+        "name": "Ultrasound"
+      },
+      {
+        "id": "3",
+        "name": "MRIs"
+      },
+      {
+        "id": "4",
+        "name": "CT Scans"
+      },
+      {
+        "id": "5",
+        "name": "X-Rays"
+      }
+    ],
+    "doctors": [
+      {
+        "name": "Dr. Amit Agarwal",
+        "image": "/img/doctors/Dr.-Swayam-Prakash.jpg",
+        "qualification": "M.D (Gold Medalist)",
+        "know-more": "/d/dr-amit-agarwal"
+      }
+    ]
+  }
+]
