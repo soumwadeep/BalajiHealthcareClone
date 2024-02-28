@@ -1,9 +1,36 @@
 body {
   text-align: center;
+  overflow-x: hidden !important;
+  padding-top: 10px;
 }
 img {
   width: 100%;
   height: auto;
+}
+.nav-bg {
+  background-color: #f3f8ff !important;
+}
+.active {
+  background-color: white !important;
+  border-bottom: 2px solid red !important;
+}
+.dropdown-menu {
+  width: 100%;
+  min-width: 80vw;
+  background-color: white !important;
+  border-bottom: 3px solid red !important;
+  padding: 10px;
+}
+.mob-logo {
+  display: none;
+}
+@media only screen and (max-width: 992px) {
+  .mob-logo {
+    display: block;
+  }
+  .pc-logo {
+    display: none;
+  }
 }
 .logo {
   max-width: 130px;

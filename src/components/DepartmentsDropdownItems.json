@@ -1,0 +1,140 @@
+[
+  {
+    "id": "1",
+    "name": "Neurology",
+    "image": "/img/Departments/neurologycover.jpg",
+    "url": "/t/neurology"
+  },
+  {
+    "id": "2",
+    "name": "Cardiology",
+    "image": "/img/Departments/cardiologycover.jpg",
+    "url": "/t/cardiology"
+  },
+  {
+    "id": "3",
+    "name": "Pulmonology",
+    "image": "/img/Departments/pulmonologycover.jpg",
+    "url": "/t/pulmonology"
+  },
+  {
+    "id": "4",
+    "name": "Gastroenterology",
+    "image": "/img/Departments/gastroenterologycover.jpg",
+    "url": "/t/gastroenterology"
+  },
+  {
+    "id": "5",
+    "name": "Nephrology",
+    "image": "/img/Departments/nephrologycover.jpg",
+    "url": "/t/nephrology"
+  },
+  {
+    "id": "6",
+    "name": "Urology",
+    "image": "/img/Departments/urologycover.jpg",
+    "url": "/t/urology"
+  },
+  {
+    "id": "7",
+    "name": "Head & Neck Surgical Oncology",
+    "image": "/img/Departments/head_neck_surgical_oncology_cover.jpg",
+    "url": "/t/head-neck-surgical-oncology"
+  },
+  {
+    "id": "8",
+    "name": "Haematology & Haemato Oncology",
+    "image": "/img/Departments/haematology_haemato_oncology_cover.jpg",
+    "url": "/t/haematology-haemato-oncology"
+  },
+  {
+    "id": "9",
+    "name": "Medical Oncology",
+    "image": "/img/Departments/medical_oncology_cover.jpg",
+    "url": "/t/medical-oncology"
+  },
+  {
+    "id": "10",
+    "name": "Internal Medicine & Diabetology",
+    "image": "/img/Departments/internal_medicine_diabetology_cover.jpg",
+    "url": "/t/internal-medicine-diabetology"
+  },
+  {
+    "id": "11",
+    "name": "Obstetrics & Gynaecology",
+    "image": "/img/Departments/obstetrics_gynaecology_cover.jpg",
+    "url": "/t/obstetrics-gynaecology"
+  },
+  {
+    "id": "12",
+    "name": "General & Laparoscopic Surgery",
+    "image": "/img/Departments/general_laparoscopic_surgery_cover.jpg",
+    "url": "/t/general-laparoscopic-surgery"
+  },
+  {
+    "id": "13",
+    "name": "Paediatrics",
+    "image": "/img/Departments/paediatrics_cover.jpg",
+    "url": "/t/paediatrics"
+  },
+  {
+    "id": "14",
+    "name": "Paediatric Cardiology",
+    "image": "/img/Departments/paediatric_cardiology_cover.jpg",
+    "url": "/t/paediatric-cardiology"
+  },
+  {
+    "id": "15",
+    "name": "Orthopaedics",
+    "image": "/img/Departments/orthopaedics_cover.jpg",
+    "url": "/t/orthopaedics"
+  },
+  {
+    "id": "16",
+    "name": "Rheumatology",
+    "image": "/img/Departments/rheumatology_cover.jpg",
+    "url": "/t/rheumatology"
+  },
+  {
+    "id": "17",
+    "name": "Minimal Access Gastro-Intestinal & Hepatobiliary Surgery",
+    "image": "/img/Departments/minimal_access_gastrointestinal_hepatobiliary_surgery_cover.jpg",
+    "url": "/t/minimal-access-gastrointestinal-hepatobiliary-surgery"
+  },
+  {
+    "id": "18",
+    "name": "Gastro Intestinal & Breast Surgical Oncology",
+    "image": "/img/Departments/gastrointestinal_breast_surgical_oncology_cover.jpg",
+    "url": "/t/gastrointestinal-breast-surgical-oncology"
+  },
+  {
+    "id": "19",
+    "name": "ENT",
+    "image": "/img/Departments/ent_cover.jpg",
+    "url": "/t/ent"
+  },
+  {
+    "id": "20",
+    "name": "Dentistry",
+    "image": "/img/Departments/dentistry_cover.jpg",
+    "url": "/t/dentistry"
+  },
+  {
+    "id": "21",
+    "name": "Psychiatry",
+    "image": "/img/Departments/psychiatry_cover.jpg",
+    "url": "/t/psychiatry"
+  },
+  {
+    "id": "22",
+    "name": "Physiotherapy",
+    "image": "/img/Departments/physiotherapy_cover.jpg",
+    "url": "/t/physiotherapy"
+  },
+  {
+    "id": "23",
+    "name": "Dietician & Diabetes Educator",
+    "image": "/img/Departments/dietician_diabetes_educator_cover.jpg",
+    "url": "/t/dietician-diabetes-educator"
+  }
+]
