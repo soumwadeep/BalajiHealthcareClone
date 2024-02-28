@@ -1,6 +1,6 @@
 const Header = () => {
   return (
-    <main>
+    <main className="container mob-mode">
       <div className="row">
         <div className="col-sm-6 mb-3">
           <img src="/img/logo.png" alt="logo" className="logo" />

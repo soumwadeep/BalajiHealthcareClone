@@ -1,9 +1,9 @@
 const Footer = () => {
   return (
     <div>
-      <h4>Copyright @ 2024.Bajaj Healthcare.</h4>
+      <h5 className="text-center">Copyright @ 2024.Bajaj Healthcare.</h5>
     </div>
-  )
-}
+  );
+};
 
-export default Footer
+export default Footer;

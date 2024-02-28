@@ -1,12 +1,17 @@
 body {
-  text-align: center;
   overflow-x: hidden !important;
   padding-top: 10px;
 }
 img {
   width: 100%;
   height: auto;
+  border-radius: 5px;
+  padding: 10px;
 }
+.addminheight {
+  min-height: 80vh;
+}
+
 .nav-bg {
   background-color: #f3f8ff !important;
 }
@@ -21,8 +26,36 @@ img {
   border-bottom: 3px solid red !important;
   padding: 10px;
 }
+.violet {
+  color: #393185;
+}
+a {
+  text-decoration: none !important;
+  /* color: black !important; */
+}
 .mob-logo {
   display: none;
+}
+.appointmentform {
+  background-color: #f3f8ff;
+  padding: 10px;
+  border: 1px solid #393185;
+  border-radius: 5px;
+  /* min-height: 30vh; */
+}
+.doctor-card {
+  max-width: 400px;
+}
+.doc-img {
+  max-width: 100px;
+}
+.right-icon {
+  width: 40px;
+}
+.addvioletbg {
+  background-color: #393185;
+  color: white;
+  border-radius: 5px;
 }
 @media only screen and (max-width: 992px) {
   .mob-logo {
@@ -30,6 +63,9 @@ img {
   }
   .pc-logo {
     display: none;
+  }
+  .mob-mode {
+    text-align: center;
   }
 }
 .logo {
